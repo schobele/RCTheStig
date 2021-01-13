@@ -1,0 +1,12 @@
+# ZMQ properties
+data_queue_port: 5551
+controls_queue_port: 5552
+
+window_width: 640
+window_height: 320
+
+frame_width: 320
+frame_height: 160
+FPS: 30
+track: deltax
+car: deltax_i8_01
